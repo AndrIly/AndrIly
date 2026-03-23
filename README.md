@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Илья
 
-<!--
-**AndrIly/AndrIly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий Python backend-разработчик.  
+Изучаю Python, FastAPI, SQL, Linux и алгоритмы.
 
-Here are some ideas to get you started:
+## Сейчас в фокусе
+- backend на Python
+- Telegram Bot разработка
+- SQL и базы данных
+- подготовка проектов для GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии
+Python, FastAPI, SQLite, SQL, Git, Linux, Docker
