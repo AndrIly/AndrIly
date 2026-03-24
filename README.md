@@ -1,13 +1,16 @@
 # Привет, я Илья
 
-Начинающий Python backend-разработчик.  
-Изучаю Python, FastAPI, SQL, Linux и алгоритмы.
+Junior Python backend developer.
+
+Работаю с Python, FastAPI, SQL, Linux и Docker.
+Сейчас развиваюсь в backend-разработке, пишу проекты и готовлюсь к стажировке.
 
 ## Сейчас в фокусе
 - backend на Python
-- Telegram Bot разработка
+- Telegram Bot development
 - SQL и базы данных
-- подготовка проектов для GitHub
+- алгоритмы и решение задач
+- оформление и развитие GitHub-проектов
 
 ## Технологии
 Python, FastAPI, SQLite, SQL, Git, Linux, Docker
