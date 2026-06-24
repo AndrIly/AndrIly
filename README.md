@@ -1,6 +1,6 @@
 # Привет, я Илья
 
-Junior Python backend developer.
+Python backend developer.
 
 Работаю с Python, FastAPI, SQL, Linux и Docker.
 Сейчас развиваюсь в backend-разработке, пишу проекты и готовлюсь к стажировке.
